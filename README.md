@@ -22,4 +22,4 @@ Aplicação que gerencia usuários, filmes e reviews.
 
 ### Diagrama de Entidade de Relacionamento
 
-<img src="https://imgur.com/qg6TTlX" width="70%" height="500px">
+[Imgur](https://i.imgur.com/qg6TTlX.jpg)
